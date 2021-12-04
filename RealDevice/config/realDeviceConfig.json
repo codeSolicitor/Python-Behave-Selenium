@@ -1,0 +1,12 @@
+[
+  {
+    "deviceName": "iPhone X",
+    "platformName": "ios",
+    "browserName": "chrome",
+    "platformVersion": "14",
+    "isRealMobile":"true",
+    "tunnel":"false",
+    "network":"true",
+    "visual":"true"
+  }
+]
